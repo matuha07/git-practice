@@ -8,3 +8,22 @@
     margin: 0;
     box-sizing: inherit;
 }
+
+h1 {
+    text-decoration: dotted;
+    text-align: center;
+    font-family: "Sixtyfour Convergence", sans-serif;
+    margin-bottom: 5px;
+}
+
+header {
+    margin-top: 20px;
+}
+
+body {
+    background-color: #fcd7d7b4;
+}
+
+footer {
+    margin-top: auto;
+}
